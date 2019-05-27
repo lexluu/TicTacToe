@@ -1,0 +1,12 @@
+/*
+ * Name: Alex Luu
+ * Date: May 2019
+ * Desc: Set style for TicTacToe buttons
+ */
+
+	.button{
+		-fx-pref-width: 100px;
+		-fx-pref-height: 100px;
+		-fx-font-size: 40px;
+		-fx-stroke-width: 7px;
+	}

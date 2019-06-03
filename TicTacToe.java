@@ -14,7 +14,7 @@ import java.util.stream.*;
 /*
  * File: TicTacToe.java
  * Name: Alex Luu
- * Date: May 2019
+ * Date: 29 May 2019
  * Desc: TicTacToe with a GUI. Human player plays against a computer
  * algorithm.
  * Versions Used: OpenJDK8, OpenJFX

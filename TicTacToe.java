@@ -256,15 +256,6 @@ public class TicTacToe extends Application {
 					}
 				}
 			}
-			//computer takes unblocked move
-			if(sum==1 && oppSum ==0){
-				for(int p =0; p<9; p++){
-					if(judge[p] == 0 && i[p] == 1 && FullBoard[p] ==0){
-						PlayGame(p, SelectedButton(p));
-						return;
-					}
-				}
-			}
 		}
 		//move generated just in case
 		for(int n=0; n<9; n++){
